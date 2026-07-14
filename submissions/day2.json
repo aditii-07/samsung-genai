@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Aditi Singh",
+  "github": "https://github.com/aditii-07",
+  "lab1_scenario": "A",
+  "lab1_prompt": "Act as a Samsung Care+ Customer Support Escalation Specialist. \nDraft a customer email resolving a third Galaxy Watch battery complaint under warranty without promising a refund. Context: Third battery complaint this month and previous troubleshooting failed so customer is frustrated watch is under warranty Constraints: 180 words, apologize, acknowledge repeated inconvenience, explain warranty inspection/repair/replacement, no promise of refund.\nTone: Professional, empathetic, reassuring \nOutput format: email",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 2,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "4299 units. chatgpt showed its working: Starting with 4,200 units, subtract the 850 sent out, reserve 6% of the remaining inventory (201 units), then add the 1,150-unit restock. This leaves 4,299 Galaxy Buds units available for sale by the end of the day.",
+  "lab2_cot_prompt": "How many Galaxy Buds units are available for sale by end of day given: starts at 4200, sends out 850, holds 6% of remaining stock, restocks 1150? solve the problem step by step and showing each step's working and display the final answer",
+  "lab2_cot_output_summary": "It started with 4,200 units, subtract the 850 sent, reserve 6% of the remaining stock (201 units), and then add the 1,150-unit restock. Finally 4,299 Galaxy Buds units are available",
+  "better_approach": "cot",
+  "stretch_done": true,
+  "stretch_react_prompt": "You are a knowledgeable travel assistant. Plan a 5-day family vacation (4 people) in Kerala during August.\nBriefly identify key considerations (weather, travel restrictions, family-friendly activities). Generate a day-wise itinerary in a tablur format with Day, Activities, Estimated Travel Time, and Suggested Meals. If any part requires real-time information or multi-step calculations (e.g., weather, travel times, costs, restrictions), do not guess. Explicitly state which tool (calculator, maps/API, web search, etc.) is needed, why, and ask for permission before using it.\n\nYou are a fitness and nutrition coach. Create a 7-day beginner weight-loss plan for an adult with a full-time job. Briefly identify key considerations (fitness level, dietary preferences, schedule, recovery). Generate a day-wise table with Day, Workout, Meals, Duration, and Daily Goal. If any part requires real-time information or multi-step calculations (e.g., calorie needs, BMI, nutrition analysis, wearable data, or medical guidance), do not guess. Explicitly state which tool (calculator, nutrition database/API, fitness tracker, web search, etc.) is needed, why, and ask for permission before using it.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T10:00:27.934Z"
+}
