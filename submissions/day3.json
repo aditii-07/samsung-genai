@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Aditi Singh",
+  "github": "aditii-07",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "B",
+  "rag_no_rag_summary": "Chatgpt confidently stated that based on publicly available information, Samsung India does not appear to have a publicly disclosed parental leave policy that differentiates between primary and secondary caregivers. however mothers get 26 weeks of paid maternity leaves while no proper information for the fathers. there is no eligibility criteria mentioned either  This is wrongly stated alongwith with incomplete information.",
+  "rag_grounded_summary": "After providing the document, chatgpt revised itself and stated all the correct information with respect the primary caregivers, secondary caregivers along with the eligibility criteria",
+  "rag_judgement": "fixed_wrong",
+  "stretch_done": true,
+  "stretch_notes": "question : A customer's Galaxy Watch6 screen cracked after 14 months of ownership. Are they covered, and what should our support reply say?\nChatgpt confidently mentioned that the damage will not be covered as it is already past the 12 months warranty cover window and accordinly drafted the email. After providing the document, chagpt revised itself and mentioned the Samsung Care+ plan and drafted the email asking whether their device has an active Care+ plan",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T09:27:46.953Z"
+}
