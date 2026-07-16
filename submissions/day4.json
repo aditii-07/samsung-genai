@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Aditi Singh",
+  "github": "aditii-07",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "since the converstional support bot spontaneously built up a fake-convincing discount, it cannot be deemed reliable because of it"
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "access to employees' private message directly violates the right to privacy"
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Transparency",
+      "justification": "ai generated videos or content should have genuine watermarks to prevent such cases"
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "this practice violates the DEI(Diversity, Equity, and Inclusion) policy and does not give the women applicants to showcase their skills"
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Human Oversight",
+      "justification": "autmated systems should undergo various testing and there should always be a human in the loop practice. ai systems should not be unsupervised"
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "there should exist more layers of security, authentication checks to ensure no major loss occurs"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Google",
+  "stretch_failure_type": "Hallucination",
+  "stretch_principle": "Human Oversight",
+  "stretch_notes": "ai overviews offered dangerous and nonsensical advices. which should have been thoroughly tested and also implemented guardrails",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:30:38.637Z"
+}
